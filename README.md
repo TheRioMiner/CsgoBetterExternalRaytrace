@@ -1,5 +1,5 @@
 # CsgoBetterExternalRaytrace
-Overriden maps pack for better external raytrace
+Overridden maps pack for better external raytrace
 
 This pack of maps was made by me for more improved raytracing, 
 all static props are no longer transparent for tracing, 
