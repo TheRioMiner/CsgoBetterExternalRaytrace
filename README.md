@@ -10,6 +10,7 @@ Raytracing speed is __10__ times faster than the original author code!
 
 (About original code see copyright section)
 
+
  
 # How to use
  ## Opening bsp:
@@ -21,6 +22,7 @@ Raytracing speed is __10__ times faster than the original author code!
  [![](https://i.imgur.com/0VDabm5.jpg)](https://i.imgur.com/0VDabm5.jpg)
 
 
+ 
 # Screenshots
 [![](https://i.imgur.com/6RAEPuW.jpg)](https://i.imgur.com/6RAEPuW.jpg)
 [![](https://i.imgur.com/AF8Qoh1.jpg)](https://i.imgur.com/AF8Qoh1.jpg)
