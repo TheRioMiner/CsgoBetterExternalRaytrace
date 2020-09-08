@@ -27,7 +27,7 @@ Raytracing speed is __10__ times faster than the original author code!
 [![](https://i.imgur.com/6RAEPuW.jpg)](https://i.imgur.com/6RAEPuW.jpg)
 [![](https://i.imgur.com/AF8Qoh1.jpg)](https://i.imgur.com/AF8Qoh1.jpg)
 [![](https://i.imgur.com/HvHbubw.jpg)](https://i.imgur.com/HvHbubw.jpg)
-[![](https://i.imgur.com/AF8Qoh1.jpg)](https://i.imgur.com/AF8Qoh1.jpg)
+[![](https://i.imgur.com/kpox88B.jpg)](https://i.imgur.com/kpox88B.jpg)
 
 
 # Notes
